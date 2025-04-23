@@ -10,7 +10,7 @@ This repository showcases a collection of academic and technical research projec
 - **Modern Cryptographic Techniques**  
   Comparative analysis of ECC, RSA, and Diffie-Hellman, with focus on TLS, password security, and IoT resilience.
 
-- **Ontology-Based Access Control (OBAC) in Industrial IoT**  
+- **Ontology-Based Access Control (OBAC) in Industrial Vehicle**  
   Study on context-aware access models for autonomous vehicles, with ML-based optimizations.
 
 - **IoT-Based Accident Detection System**  
