@@ -16,6 +16,6 @@ This repository showcases a collection of academic and technical research projec
 - **IoT-Based Accident Detection System**  
   Research on real-time crash detection and emergency alert systems to improve road safety and emergency response times.
 
-Each research topic is documented in its respective folder with supporting PDFs and summaries. These works were completed as part of academic coursework and my undergraduate project.
+Each research topic is documented in its respective PDFs with summaries. These works were completed as part of my academic coursework during both undergraduate and postgraduate studies, including my final year project.
 
 Feel free to explore the documents for detailed insights.
